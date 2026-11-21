@@ -1,0 +1,21 @@
+{
+    "name": "CA3.Editor",
+    "rootNamespace": "",
+    "references": [
+        "CA3",
+        "Mujoco.Runtime",
+        "Mujoco.Editor",
+        "Unity.InferenceEngine"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
